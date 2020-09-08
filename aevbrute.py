@@ -21,7 +21,7 @@ print('''
 🇹🇷Turkish🇹🇷
 
 WhatsApp :  +1 323 329 5559
-İnstagram : @aevhakan & @byh4cker
+İnstagram : @aevhakan
 YouTube : aevhakan
 
            
